@@ -22,6 +22,7 @@
   text-transform: uppercase;
   padding: 0.5rem 1rem;
   margin-right: 2rem;
+  line-height: 3em;
   color: #fff;
   font-size: 1em;
   font-weight: 500;
@@ -34,4 +35,26 @@
 
 .gutenberg-game-day-2 .gutenberg-game-day-2-subdeck {
   color: #777777;
+}
+
+.gutenberg-game-day-2 .error {
+  box-shadow: 0 0 5px 2px rgb(252, 0, 84);
+}
+
+.gutenberg-game-day-2 .char-limit-error-message {
+  background-color: #ff7171;
+  color: #fff;
+  width: 60%;
+}
+
+.gutenberg-game-day-2 .error-kicker {
+  margin: 0 2rem 0 0;
+}
+
+.gutenberg-game-day-2 .error-headline, .gutenberg-game-day-2 .error-subdeck {
+  margin: 1rem 0 0 0;
+}
+
+.hidden {
+  display: none;
 }

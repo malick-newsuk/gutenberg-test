@@ -3,10 +3,10 @@
 	"apiVersion": 3,
 	"name": "create-block/game-day-2",
 	"version": "0.1.0",
-	"title": "Game Day 2",
+	"title": "Daily Moon Headline Block",
 	"category": "widgets",
-	"icon": "smiley",
-	"description": "Example block scaffolded with Create Block tool.",
+	"icon": "tagcloud",
+	"description": "Adds kicker, headline and subdeck for Daily Moon editorial",
 	"example": {},
 	"supports": {
 		"html": false
